@@ -1,0 +1,10 @@
+project: development-orchestrator
+
+modules: []
+
+rules:
+  reuse_existing: true
+  avoid_duplicate_code: true
+  execution_allowed: false
+  production_data_allowed: false
+  synthetic_data_only: true
